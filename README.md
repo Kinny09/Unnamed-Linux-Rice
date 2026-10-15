@@ -1,5 +1,5 @@
 # Unnamed-Linux-Rice
-Ideas:
+## Ideas
 Use Quickshell for programming
 https://quickshell.org/
 
